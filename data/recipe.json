@@ -1,0 +1,438 @@
+[
+    {
+        "id": "1",
+        "name": "Classic Spaghetti Carbonara",
+        "description": "A delicious Italian pasta dish with creamy egg and cheese sauce.",
+        "ingredients": ["Spaghetti", "pork", "Bacon", "Eggs", "Parmesan Cheese", "Ground Black Pepper"],
+        "steps": [
+            "Cook the spaghetti in boiling salted water until al dente.",
+            "In a separate pan, fry the bacon until crispy. Remove from heat and drain excess fat.",
+            "In a bowl, whisk together eggs and grated Parmesan cheese.",
+            "Once the spaghetti is cooked, drain it and immediately toss it with the egg mixture.",
+            "The heat from the pasta will cook the eggs and create a creamy sauce.",
+            "Add the crispy bacon and black pepper to the pasta. Toss everything together.",
+            "Serve hot, garnished with additional Parmesan cheese a nd black pepper if desired."
+        ],
+        "main_ingredient": "pork",
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "25 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/spaghetti_carbonara.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Chicken Alfredo Pasta",
+        "description": "Creamy pasta dish with tender chicken and Parmesan cheese sauce.",
+        "ingredients": ["Chicken Breasts", "Fettuccine", "Heavy Cream", "Butter", "Garlic", "Parmesan Cheese"],
+        "main_ingredient": "chicken",
+        "steps": [
+            "Cook the fettuccine as directed; drain and set aside.",
+            "Saute chicken in butter until cooked; add minced garlic.",
+            "Pour in heavy cream and simmer until thickened.",
+            "Stir in grated Parmesan cheese until melted.",
+            "Combine sauce with pasta and serve hot."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "35 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/chicken_alfredo_pasta.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Grilled Steak with Garlic Butter",
+        "description": "Juicy grilled steak with flavorful garlic butter.",
+        "ingredients": ["Ribeye Steak", "Garlic", "Butter", "Rosemary", "Salt", "Pepper"],
+        "main_ingredient": "beef",
+        "steps": [
+            "Season the steak with salt, pepper, and chopped rosemary.",
+            "Grill the steak to your desired doneness.",
+            "In a pan, melt butter and saute minced garlic until fragrant.",
+            "Pour the garlic butter over the grilled steak and serve."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "25 minutes",
+        "servings": "2",
+        "image_url": "https://example.com/images/grilled_steak_garlic_butter.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Baked Lemon Herb Salmon",
+        "description": "Healthy and flavorful salmon baked with lemon and herbs.",
+        "ingredients": ["Salmon Fillets", "Lemon", "Olive Oil", "Garlic", "Thyme", "Salt", "Pepper"],
+        "main_ingredient": "fish",
+        "steps": [
+            "Preheat the oven to 375°F (190°C).",
+            "Place the salmon fillets on a baking sheet.",
+            "Drizzle with olive oil and squeeze lemon juice over the salmon.",
+            "Sprinkle with minced garlic, chopped thyme, salt, and pepper.",
+            "Bake in the preheated oven for about 15-20 minutes, or until the salmon is cooked through.",
+            "Serve hot, garnished with additional lemon slices and fresh thyme if desired."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "30 minutes",
+        "servings": "2",
+        "image_url": "https://example.com/images/baked_lemon_herb_salmon.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Margherita Pizza",
+        "description": "Classic Italian pizza with tomato sauce, fresh mozzarella, and basil.",
+        "ingredients": ["Pizza Dough", "Tomato Sauce", "Fresh Mozzarella", "Fresh Basil Leaves", "Olive Oil"],
+        "main_ingredient": "vegi",
+        "steps": [
+            "Preheat the oven to the highest temperature (usually 500°F/260°C).",
+            "Roll out the pizza dough on a floured surface to your desired thickness.",
+            "Transfer the rolled-out dough to a baking sheet or pizza stone.",
+            "Spread a thin layer of tomato sauce over the dough.",
+            "Arrange slices of fresh mozzarella on top of the sauce.",
+            "Bake in the preheated oven for about 10-12 minutes, or until the crust is golden and the cheese is bubbly and slightly browned.",
+            "Remove from the oven and top with fresh basil leaves.",
+            "Drizzle with olive oil and serve hot."
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "12 minutes",
+        "total_time": "32 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/margherita_pizza.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Chicken Tikka Masala",
+        "description": "A popular Indian curry dish with tender chicken in a rich tomato-based sauce.",
+        "ingredients": ["Chicken Thighs", "Yogurt", "Tomato Sauce", "Garam Masala", "Ginger", "Garlic", "Cream"],
+        "main_ingredient": "chicken",
+        "steps": [
+            "In a bowl, marinate chicken thighs in yogurt, garam masala, ginger, and garlic for at least 30 minutes.",
+            "In a pan, cook the marinated chicken until browned and cooked through.",
+            "Add tomato sauce and simmer until the sauce thickens.",
+            "Stir in the cream to make the sauce rich and creamy.",
+            "Serve hot, garnished with chopped cilantro, with steamed rice or naan."
+        ],
+        "prep_time": "40 minutes",
+        "cook_time": "25 minutes",
+        "total_time": "1 hour 5 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/chicken_tikka_masala.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Vegetarian Sushi Rolls",
+        "description": "Delicious sushi rolls filled with fresh vegetables and served with soy sauce and wasabi.",
+        "ingredients": ["Sushi Rice", "Nori Sheets", "Cucumber", "Avocado", "Carrot", "Soy Sauce", "Wasabi"],
+        "main_ingredient": "vegi",
+        "steps": [
+            "Cook the sushi rice as per package instructions and let it cool.",
+            "Place a bamboo sushi mat on a clean surface and cover it with plastic wrap.",
+            "Place a nori sheet on the mat, shiny side down.",
+            "Spread a thin layer of sushi rice on the nori sheet, leaving about 1 inch of space at the top.",
+            "Add strips of cucumber, avocado, and carrot along the center of the rice.",
+            "Roll the sushi tightly using the bamboo mat, moisten the top edge of the nori with water to seal the roll.",
+            "Slice the sushi roll into bite-sized pieces.",
+            "Serve with soy sauce and wasabi."
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "0 minutes",
+        "total_time": "30 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/vegetarian_sushi_rolls.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Beef and Broccoli Stir-Fry",
+        "description": "Quick and flavorful beef stir-fry with broccoli in a savory sauce.",
+        "ingredients": ["Beef Strips", "Broccoli", "Soy Sauce", "Oyster Sauce", "Ginger", "Garlic", "Sesame Oil"],
+        "main_ingredient": "beef",
+        "steps": [
+            "In a bowl, marinate the beef strips in soy sauce and ginger for 15-20 minutes.",
+            "In a wok or large skillet, heat sesame oil and stir-fry the marinated beef until browned. Remove from the wok and set aside.",
+            "Stir-fry broccoli in the same wok until crisp-tender.",
+            "Add minced garlic and oyster sauce to the broccoli and stir-fry for another minute.",
+            "Return the beef to the wok and toss everything together.",
+            "Serve hot over steamed rice."
+        ],
+        "prep_time": "25 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "40 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/beef_broccoli_stir_fry.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Creamy Tomato Basil Soup",
+        "description": "A comforting and creamy tomato soup with fresh basil.",
+        "ingredients": ["Tomatoes", "Onion", "Garlic", "Vegetable Broth", "Cream", "Fresh Basil Leaves"],
+        "main_ingredient": "vegi",
+        "steps": [
+            "In a large pot, saute chopped onions and garlic until soft.",
+            "Add chopped tomatoes and cook until they break down.",
+            "Pour in vegetable broth and bring to a boil. Simmer for 15 minutes.",
+            "Use an immersion blender to puree the soup until smooth.",
+            "Stir in the cream and chopped fresh basil.",
+            "Simmer for an additional 5 minutes.",
+            "Season with salt and pepper to taste.",
+            "Serve hot, garnished with extra basil leaves and a drizzle of cream if desired."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "25 minutes",
+        "total_time": "40 minutes",
+        "servings": "6",
+        "image_url": "https://example.com/images/creamy_tomato_basil_soup.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Shrimp Scampi",
+        "description": "Quick and delicious shrimp sauteed in garlic, butter, and white wine sauce.",
+        "ingredients": ["Shrimp", "Butter", "Garlic", "White Wine", "Lemon Juice", "Parsley", "Spaghetti"],
+        "steps": [
+            "Cook the spaghetti as per package instructions and set aside.",
+            "In a large skillet, melt butter and saute minced garlic until fragrant.",
+            "Add the shrimp to the skillet and cook until pink and opaque.",
+            "Pour in white wine and lemon juice, and let it simmer for a few minutes.",
+            "Stir in chopped parsley and season with salt and pepper.",
+            "Toss the cooked spaghetti with the shrimp and sauce.",
+            "Serve hot, garnished with additional parsley and lemon wedges if desired."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "10 minutes",
+        "total_time": "20 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/shrimp_scampi.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Chicken Parmesan",
+        "description": "Breaded chicken topped with marinara sauce and melted mozzarella and Parmesan cheese.",
+        "ingredients": ["Chicken Breasts", "Breadcrumbs", "Marinara Sauce", "Mozzarella Cheese", "Parmesan Cheese"],
+        "steps": [
+            "Preheat the oven to 375°F (190°C).",
+            "Season the chicken breasts with salt and pepper.",
+            "Dredge the chicken in breadcrumbs until fully coated.",
+            "In a pan, heat oil over medium heat and cook the chicken until golden and cooked through.",
+            "Place the cooked chicken in a baking dish, top with marinara sauce, mozzarella, and Parmesan cheese.",
+            "Bake in the preheated oven for about 15 minutes, or until the cheese is melted and bubbly.",
+            "Serve hot, garnished with chopped fresh basil if desired."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "35 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/chicken_parmesan.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Veggie Quinoa Bowl",
+        "description": "Healthy and nutritious quinoa bowl with mixed vegetables and chickpeas.",
+        "ingredients": [
+            "Quinoa",
+            "Mixed Vegetables (e.g., Bell Peppers, Zucchini, Carrots)",
+            "Chickpeas",
+            "Feta Cheese",
+            "Lemon Dressing"
+        ],
+        "steps": [
+            "Rinse the quinoa thoroughly and cook according to package instructions.",
+            "In a pan, saute mixed vegetables and chickpeas until tender.",
+            "Toss cooked quinoa with the sauteed vegetables and chickpeas.",
+            "Crumble feta cheese over the quinoa bowl.",
+            "Drizzle with lemon dressing and toss everything together.",
+            "Serve warm or chilled."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "30 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/veggie_quinoa_bowl.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Thai Red Curry with Tofu",
+        "description": "A flavorful Thai curry with tofu, vegetables, and aromatic spices.",
+        "ingredients": ["Tofu", "Red Curry Paste", "Coconut Milk", "Bell Peppers", "Bamboo Shoots"],
+        "steps": [
+            "In a wok or large skillet, saute tofu until lightly browned. Set aside.",
+            "In the same wok, add red curry paste and cook until fragrant.",
+            "Pour in coconut milk and bring to a simmer.",
+            "Add sliced bell peppers and bamboo shoots to the curry sauce.",
+            "Simmer until the vegetables are cooked and the sauce thickens.",
+            "Return the sauteed tofu to the wok and mix everything together.",
+            "Serve hot, garnished with fresh cilantro, with steamed rice."
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "35 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/thai_red_curry_tofu.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Baked Ziti",
+        "description": "Baked pasta dish with ziti, marinara sauce, and melted cheese.",
+        "ingredients": ["Ziti Pasta", "Marinara Sauce", "Ricotta Cheese", "Mozzarella Cheese", "Parmesan Cheese"],
+        "steps": [
+            "Preheat the oven to 375°F (190°C).",
+            "Cook the ziti pasta according to package instructions.",
+            "In a baking dish, layer cooked ziti, marinara sauce, ricotta cheese, and mozzarella.",
+            "Repeat the layers until all ingredients are used, finishing with mozzarella on top.",
+            "Sprinkle grated Parmesan cheese over the top layer.",
+            "Bake in the preheated oven for about 20-25 minutes, or until the cheese is melted and bubbly.",
+            "Serve hot, garnished with chopped fresh basil if desired."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "25 minutes",
+        "total_time": "40 minutes",
+        "servings": "6",
+        "image_url": "https://example.com/images/baked_ziti.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Greek Salad",
+        "description": "Refreshing salad with cucumbers, tomatoes, olives, and feta cheese.",
+        "ingredients": [
+            "Cucumbers",
+            "Tomatoes",
+            "Red Onions",
+            "Kalamata Olives",
+            "Feta Cheese",
+            "Oregano",
+            "Olive Oil"
+        ],
+        "steps": [
+            "Slice cucumbers, tomatoes, and red onions and place them in a large salad bowl.",
+            "Add Kalamata olives and crumbled feta cheese to the bowl.",
+            "Drizzle olive oil over the salad.",
+            "Sprinkle dried oregano on top.",
+            "Toss everything together until well combined.",
+            "Serve chilled as a side dish or with crusty bread for a light meal."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "0 minutes",
+        "total_time": "15 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/greek_salad.jpg"
+    },
+    {
+        "id": "16",
+        "name": "Caramelized Onion and Mushroom Tart",
+        "description": "Savory tart with caramelized onions, mushrooms, and cheese.",
+        "ingredients": ["Puff Pastry", "Onions", "Mushrooms", "Balsamic Vinegar", "Thyme", "Gruyere Cheese"],
+        "steps": [
+            "Preheat the oven to 400°F (200°C).",
+            "Roll out the puff pastry on a floured surface to fit a baking sheet.",
+            "In a pan, saute sliced onions until caramelized.",
+            "Add sliced mushrooms and cook until tender.",
+            "Stir in balsamic vinegar and fresh thyme.",
+            "Spread the caramelized onion and mushroom mixture over the puff pastry.",
+            "Top with shredded Gruyere cheese.",
+            "Bake in the preheated oven for about 20-25 minutes, or until the pastry is golden and the cheese is melted.",
+            "Serve hot or at room temperature."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "30 minutes",
+        "total_time": "45 minutes",
+        "servings": "6",
+        "image_url": "https://example.com/images/onion_mushroom_tart.jpg"
+    },
+    {
+        "id": "17",
+        "name": "Chicken Caesar Salad",
+        "description": "Classic Caesar salad with grilled chicken and homemade dressing.",
+        "ingredients": ["Chicken Breasts", "Romaine Lettuce", "Croutons", "Parmesan Cheese", "Caesar Dressing"],
+        "steps": [
+            "Season the chicken breasts with salt and pepper.",
+            "Grill the chicken until cooked through and slice it into strips.",
+            "Wash and dry the romaine lettuce, then tear it into bite-sized pieces.",
+            "In a large bowl, toss the romaine with Caesar dressing until well coated.",
+            "Top the salad with sliced chicken, croutons, and shaved Parmesan cheese.",
+            "Serve chilled, garnished with additional Parmesan and cracked black pepper if desired."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "30 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/chicken_caesar_salad.jpg"
+    },
+    {
+        "id": "18",
+        "name": "Mushroom Risotto",
+        "description": "Creamy and flavorful risotto with mushrooms and Parmesan cheese.",
+        "ingredients": [
+            "Arborio Rice",
+            "Mushrooms",
+            "Vegetable Broth",
+            "White Wine",
+            "Onion",
+            "Garlic",
+            "Parmesan Cheese"
+        ],
+        "steps": [
+            "In a saucepan, bring vegetable broth to a simmer and keep it warm.",
+            "In a separate large pan, saute chopped onion and minced garlic until translucent.",
+            "Add sliced mushrooms and cook until tender.",
+            "Add Arborio rice to the pan and cook for a few minutes until lightly toasted.",
+            "Pour in white wine and cook until it's mostly absorbed.",
+            "Add a ladle of warm vegetable broth to the rice and stir continuously until it's mostly absorbed.",
+            "Repeat the process, adding broth one ladle at a time and stirring until the rice is creamy and cooked al dente.",
+            "Stir in grated Parmesan cheese until melted and creamy.",
+            "Serve hot, garnished with chopped fresh parsley if desired."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "30 minutes",
+        "total_time": "40 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/mushroom_risotto.jpg"
+    },
+    {
+        "id": "19",
+        "name": "Taco Salad",
+        "description": "A hearty and satisfying salad with seasoned ground beef and all the taco fixings.",
+        "ingredients": [
+            "Ground Beef",
+            "Taco Seasoning",
+            "Lettuce",
+            "Tomatoes",
+            "Avocado",
+            "Corn",
+            "Black Beans",
+            "Cheddar Cheese",
+            "Tortilla Chips",
+            "Salsa",
+            "Sour Cream"
+        ],
+        "steps": [
+            "In a skillet, cook the ground beef with taco seasoning until browned and fully cooked.",
+            "Chop lettuce and tomatoes and place them in a large salad bowl.",
+            "Add sliced avocado, corn, and black beans to the salad.",
+            "Top with seasoned ground beef and shredded cheddar cheese.",
+            "Crush tortilla chips over the salad.",
+            "Serve the taco salad with salsa and sour cream on the side.",
+            "Toss everything together just before eating."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "10 minutes",
+        "total_time": "25 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/taco_salad.jpg"
+    },
+    {
+        "id": "20",
+        "name": "Baked Garlic Butter Shrimp",
+        "description": "Juicy shrimp baked in a garlic butter sauce.",
+        "ingredients": ["Shrimp", "Butter", "Garlic", "Lemon", "Parsley"],
+        "steps": [
+            "Preheat the oven to 375°F (190°C).",
+            "In a baking dish, melt butter and mix in minced garlic, lemon juice, and chopped parsley.",
+            "Add shrimp to the baking dish and toss to coat them in the garlic butter sauce.",
+            "Bake in the preheated oven for about 10-12 minutes, or until the shrimp are pink and cooked through.",
+            "Serve hot, garnished with fresh parsley and lemon wedges if desired."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "12 minutes",
+        "total_time": "22 minutes",
+        "servings": "4",
+        "image_url": "https://example.com/images/garlic_butter_shrimp.jpg"
+    }
+]
