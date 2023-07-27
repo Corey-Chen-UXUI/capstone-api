@@ -6,8 +6,8 @@ const { readRecipes } = require("../utils/helper.js");
 router.get("/", (req, res) => {
     // const recipe = readRecipe();
     const listRecipes = readRecipes().map((recipe) => {
-        const { id, name } = recipe;
-        return { id, name };
+        const { id, name, main_ingredient } = recipe;
+        return { id, name, main_ingredient };
     });
     res.status(200).json(listRecipes);
 });

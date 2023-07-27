@@ -208,6 +208,7 @@
         "name": "Chicken Parmesan",
         "description": "Breaded chicken topped with marinara sauce and melted mozzarella and Parmesan cheese.",
         "ingredients": ["Chicken Breasts", "Breadcrumbs", "Marinara Sauce", "Mozzarella Cheese", "Parmesan Cheese"],
+        "main_ingredient": "chicken",
         "steps": [
             "Preheat the oven to 375°F (190°C).",
             "Season the chicken breasts with salt and pepper.",
@@ -234,6 +235,7 @@
             "Feta Cheese",
             "Lemon Dressing"
         ],
+        "main_ingredient": "vegi",
         "steps": [
             "Rinse the quinoa thoroughly and cook according to package instructions.",
             "In a pan, saute mixed vegetables and chickpeas until tender.",
@@ -253,6 +255,7 @@
         "name": "Thai Red Curry with Tofu",
         "description": "A flavorful Thai curry with tofu, vegetables, and aromatic spices.",
         "ingredients": ["Tofu", "Red Curry Paste", "Coconut Milk", "Bell Peppers", "Bamboo Shoots"],
+        "main_ingredient": "vegi",
         "steps": [
             "In a wok or large skillet, saute tofu until lightly browned. Set aside.",
             "In the same wok, add red curry paste and cook until fragrant.",
@@ -273,6 +276,7 @@
         "name": "Baked Ziti",
         "description": "Baked pasta dish with ziti, marinara sauce, and melted cheese.",
         "ingredients": ["Ziti Pasta", "Marinara Sauce", "Ricotta Cheese", "Mozzarella Cheese", "Parmesan Cheese"],
+        "main_ingredient": "vegi",
         "steps": [
             "Preheat the oven to 375°F (190°C).",
             "Cook the ziti pasta according to package instructions.",
@@ -301,6 +305,7 @@
             "Oregano",
             "Olive Oil"
         ],
+        "main_ingredient": "vegi",
         "steps": [
             "Slice cucumbers, tomatoes, and red onions and place them in a large salad bowl.",
             "Add Kalamata olives and crumbled feta cheese to the bowl.",
@@ -320,6 +325,7 @@
         "name": "Caramelized Onion and Mushroom Tart",
         "description": "Savory tart with caramelized onions, mushrooms, and cheese.",
         "ingredients": ["Puff Pastry", "Onions", "Mushrooms", "Balsamic Vinegar", "Thyme", "Gruyere Cheese"],
+        "main_ingredient": "vegi",
         "steps": [
             "Preheat the oven to 400°F (200°C).",
             "Roll out the puff pastry on a floured surface to fit a baking sheet.",
@@ -342,6 +348,7 @@
         "name": "Chicken Caesar Salad",
         "description": "Classic Caesar salad with grilled chicken and homemade dressing.",
         "ingredients": ["Chicken Breasts", "Romaine Lettuce", "Croutons", "Parmesan Cheese", "Caesar Dressing"],
+        "main_ingredient": "chicken",
         "steps": [
             "Season the chicken breasts with salt and pepper.",
             "Grill the chicken until cooked through and slice it into strips.",
@@ -369,6 +376,7 @@
             "Garlic",
             "Parmesan Cheese"
         ],
+        "main_ingredient": "vegi",
         "steps": [
             "In a saucepan, bring vegetable broth to a simmer and keep it warm.",
             "In a separate large pan, saute chopped onion and minced garlic until translucent.",
@@ -403,6 +411,7 @@
             "Salsa",
             "Sour Cream"
         ],
+        "main_ingredient": "beef",
         "steps": [
             "In a skillet, cook the ground beef with taco seasoning until browned and fully cooked.",
             "Chop lettuce and tomatoes and place them in a large salad bowl.",
@@ -423,6 +432,7 @@
         "name": "Baked Garlic Butter Shrimp",
         "description": "Juicy shrimp baked in a garlic butter sauce.",
         "ingredients": ["Shrimp", "Butter", "Garlic", "Lemon", "Parsley"],
+        "main_ingredient": "shrimp",
         "steps": [
             "Preheat the oven to 375°F (190°C).",
             "In a baking dish, melt butter and mix in minced garlic, lemon juice, and chopped parsley.",
