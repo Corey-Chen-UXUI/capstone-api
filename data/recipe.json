@@ -24,7 +24,15 @@
         "id": "2",
         "name": "Chicken Alfredo Pasta",
         "description": "Creamy pasta dish with tender chicken and Parmesan cheese sauce.",
-        "ingredients": ["Chicken Breasts", "Fettuccine", "Heavy Cream", "Butter", "Garlic", "Parmesan Cheese"],
+        "ingredients": [
+            "chicken",
+            "Chicken Breasts",
+            "Fettuccine",
+            "Heavy Cream",
+            "Butter",
+            "Garlic",
+            "Parmesan Cheese"
+        ],
         "main_ingredient": "chicken",
         "steps": [
             "Cook the fettuccine as directed; drain and set aside.",
@@ -303,7 +311,8 @@
             "Kalamata Olives",
             "Feta Cheese",
             "Oregano",
-            "Olive Oil"
+            "Olive Oil",
+            "Vegi"
         ],
         "main_ingredient": "vegi",
         "steps": [
@@ -347,7 +356,14 @@
         "id": "17",
         "name": "Chicken Caesar Salad",
         "description": "Classic Caesar salad with grilled chicken and homemade dressing.",
-        "ingredients": ["Chicken Breasts", "Romaine Lettuce", "Croutons", "Parmesan Cheese", "Caesar Dressing"],
+        "ingredients": [
+            "Chicken Breasts",
+            "Chicken",
+            "Romaine Lettuce",
+            "Croutons",
+            "Parmesan Cheese",
+            "Caesar Dressing"
+        ],
         "main_ingredient": "chicken",
         "steps": [
             "Season the chicken breasts with salt and pepper.",
@@ -374,7 +390,8 @@
             "White Wine",
             "Onion",
             "Garlic",
-            "Parmesan Cheese"
+            "Parmesan Cheese",
+            "Vegi"
         ],
         "main_ingredient": "vegi",
         "steps": [
@@ -399,6 +416,7 @@
         "name": "Taco Salad",
         "description": "A hearty and satisfying salad with seasoned ground beef and all the taco fixings.",
         "ingredients": [
+            "Beef",
             "Ground Beef",
             "Taco Seasoning",
             "Lettuce",
@@ -445,5 +463,468 @@
         "total_time": "22 minutes",
         "servings": "4",
         "image_url": "https://example.com/images/garlic_butter_shrimp.jpg"
+    },
+
+    {
+        "id": "21",
+        "name": "Delicious Chocolate Cake",
+        "description": "A rich and moist chocolate cake that will satisfy your cravings.",
+        "ingredients": [
+            "chicken",
+            "2 cups all-purpose flour",
+            "2 cups granulated sugar",
+            "3/4 cup unsweetened cocoa powder",
+            "1 1/2 teaspoons baking powder",
+            "1 1/2 teaspoons baking soda",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 cup milk",
+            "1/2 cup vegetable oil",
+            "2 teaspoons vanilla extract",
+            "1 cup boiling water"
+        ],
+        "steps": [
+            "Preheat the oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.",
+            "In a large bowl, mix together flour, sugar, cocoa, baking powder, baking soda, and salt.",
+            "Add eggs, milk, oil, and vanilla, and mix until smooth.",
+            "Stir in the boiling water. The batter will be thin.",
+            "Pour the batter evenly into the prepared pans.",
+            "Bake for 30 to 35 minutes or until a toothpick inserted into the center comes out clean.",
+            "Remove from the oven and let the cakes cool in the pans for 10 minutes.",
+            "Transfer the cakes to a wire rack and let them cool completely.",
+            "Frost with your favorite chocolate frosting and enjoy!"
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "30 minutes",
+        "total_time": "1 hour",
+        "servings": 12,
+        "image_url": "https://example.com/chocolate_cake.jpg"
+    },
+    {
+        "id": "21",
+        "name": "Classic Spaghetti Carbonara",
+        "description": "A traditional Italian pasta dish with a creamy sauce made from eggs, cheese, and bacon.",
+        "ingredients": [
+            "Fish",
+            "12 ounces spaghetti",
+            "2 large eggs",
+            "1 cup grated Pecorino Romano cheese",
+            "4 ounces pancetta or guanciale, diced",
+            "2 cloves garlic, minced",
+            "1/4 teaspoon freshly ground black pepper",
+            "Salt to taste",
+            "2 tablespoons chopped fresh parsley"
+        ],
+        "steps": [
+            "Bring a large pot of salted water to a boil. Cook spaghetti until al dente.",
+            "In a bowl, whisk together eggs, grated Pecorino Romano cheese, black pepper, and a pinch of salt.",
+            "In a skillet, cook diced pancetta or guanciale until crispy. Add minced garlic and cook for 1 minute.",
+            "Drain cooked spaghetti and add it to the skillet with pancetta. Toss to coat.",
+            "Remove from heat and quickly add the egg and cheese mixture. Toss until the sauce thickens and coats the pasta.",
+            "Serve immediately, garnished with chopped parsley."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "25 minutes",
+        "servings": 4,
+        "image_url": "https://example.com/spaghetti_carbonara.jpg"
+    },
+    {
+        "id": "22",
+        "name": "Chicken Parmesan",
+        "description": "Breaded and fried chicken cutlets topped with marinara sauce and melted mozzarella cheese.",
+        "ingredients": [
+            "Chicken",
+            "4 boneless, skinless chicken breasts",
+            "1 cup all-purpose flour",
+            "2 large eggs, beaten",
+            "1 1/2 cups breadcrumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 teaspoon dried oregano",
+            "1 teaspoon dried basil",
+            "1/2 teaspoon garlic powder",
+            "Salt and pepper to taste",
+            "1 cup marinara sauce",
+            "1 1/2 cups shredded mozzarella cheese",
+            "2 tablespoons chopped fresh parsley",
+            "Cooking oil for frying"
+        ],
+        "steps": [
+            "Preheat the oven to 375°F (190°C).",
+            "Pound the chicken breasts to an even thickness.",
+            "In separate shallow dishes, place the flour, beaten eggs, and a mixture of breadcrumbs, Parmesan cheese, dried oregano, dried basil, garlic powder, salt, and pepper.",
+            "Dredge each chicken breast in flour, then dip into the beaten eggs, and finally coat with the breadcrumb mixture.",
+            "In a large skillet, heat cooking oil over medium heat. Fry the breaded chicken until golden and cooked through.",
+            "Place the fried chicken in a baking dish. Top with marinara sauce and shredded mozzarella cheese.",
+            "Bake in the preheated oven until the cheese is melted and bubbly.",
+            "Garnish with chopped fresh parsley before serving."
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "40 minutes",
+        "servings": 4,
+        "image_url": "https://example.com/chicken_parmesan.jpg"
+    },
+    {
+        "id": "23",
+        "name": "Vegetable Stir-Fry",
+        "description": "A colorful and healthy mix of fresh vegetables stir-fried in a flavorful sauce.",
+        "ingredients": [
+            "Vegi",
+            "2 cups broccoli florets",
+            "1 red bell pepper, sliced",
+            "1 yellow bell pepper, sliced",
+            "1 carrot, sliced",
+            "1 cup snap peas",
+            "1 cup sliced mushrooms",
+            "1 tablespoon vegetable oil",
+            "2 cloves garlic, minced",
+            "1/4 cup soy sauce",
+            "2 tablespoons oyster sauce",
+            "1 tablespoon hoisin sauce",
+            "1 teaspoon sesame oil",
+            "1 teaspoon cornstarch",
+            "1/4 cup water",
+            "Sesame seeds and green onions for garnish"
+        ],
+        "steps": [
+            "In a small bowl, mix together soy sauce, oyster sauce, hoisin sauce, sesame oil, cornstarch, and water to make the sauce.",
+            "Heat vegetable oil in a wok or large skillet over high heat.",
+            "Add minced garlic and stir-fry for a few seconds until fragrant.",
+            "Add broccoli florets and sliced carrot. Stir-fry for 2-3 minutes until slightly tender.",
+            "Add red and yellow bell peppers, snap peas, and sliced mushrooms. Stir-fry for another 2-3 minutes.",
+            "Pour the sauce over the vegetables and stir to coat evenly. Cook for an additional 1-2 minutes until the sauce thickens.",
+            "Remove from heat and garnish with sesame seeds and chopped green onions.",
+            "Serve the vegetable stir-fry over steamed rice or noodles."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "10 minutes",
+        "total_time": "25 minutes",
+        "servings": 4,
+        "image_url": "https://example.com/vegetable_stir_fry.jpg"
+    },
+    {
+        "id": "24",
+        "name": "Creamy Tomato Basil Soup",
+        "description": "A comforting and creamy tomato soup with the flavors of fresh basil.",
+        "ingredients": [
+            "Fish",
+            "2 tablespoons unsalted butter",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "28 ounces canned whole tomatoes",
+            "1 cup chicken or vegetable broth",
+            "1/2 cup heavy cream",
+            "1/4 cup chopped fresh basil",
+            "Salt and pepper to taste",
+            "Croutons and additional basil for garnish"
+        ],
+        "steps": [
+            "In a large pot, melt butter over medium heat. Add chopped onion and cook until softened.",
+            "Add minced garlic and cook for another minute.",
+            "Add canned whole tomatoes (with their juice) and chicken or vegetable broth. Bring to a boil, then reduce heat and simmer for about 15 minutes.",
+            "Use an immersion blender to puree the soup until smooth. Alternatively, let the soup cool slightly and blend in batches using a regular blender.",
+            "Return the pureed soup to the pot and stir in heavy cream and chopped fresh basil.",
+            "Season with salt and pepper to taste.",
+            "Serve the creamy tomato basil soup hot, garnished with croutons and additional basil leaves."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "30 minutes",
+        "servings": 4,
+        "image_url": "https://example.com/tomato_basil_soup.jpg"
+    },
+    {
+        "id": "25",
+        "name": "Grilled Lemon Herb Chicken",
+        "description": "Juicy and flavorful chicken marinated in a lemon herb mixture and grilled to perfection.",
+        "ingredients": [
+            "Pork",
+            "4 boneless, skinless chicken breasts",
+            "1/4 cup olive oil",
+            "1/4 cup freshly squeezed lemon juice",
+            "2 tablespoons chopped fresh parsley",
+            "2 tablespoons chopped fresh thyme",
+            "2 cloves garlic, minced",
+            "1 teaspoon lemon zest",
+            "Salt and pepper to taste"
+        ],
+        "steps": [
+            "In a bowl, whisk together olive oil, lemon juice, chopped parsley, chopped thyme, minced garlic, and lemon zest.",
+            "Place the chicken breasts in a resealable plastic bag or shallow dish. Pour the marinade over the chicken and ensure it's well-coated.",
+            "Seal the bag or cover the dish and refrigerate for at least 1 hour, or preferably overnight.",
+            "Preheat the grill to medium-high heat.",
+            "Remove the chicken from the marinade and discard the marinade.",
+            "Season the chicken breasts with salt and pepper.",
+            "Grill the chicken for 6-7 minutes per side or until cooked through and no longer pink in the center.",
+            "Remove from the grill and let the chicken rest for a few minutes before serving."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "1 hour 30 minutes",
+        "servings": 4,
+        "image_url": "https://example.com/lemon_herb_chicken.jpg"
+    },
+    {
+        "id": "26",
+        "name": "Shrimp Scampi",
+        "description": "Tender shrimp cooked in a garlicky butter sauce served over linguine.",
+        "ingredients": [
+            "Shrimp",
+            "8 ounces linguine",
+            "1 pound large shrimp, peeled and deveined",
+            "4 tablespoons unsalted butter",
+            "4 cloves garlic, minced",
+            "1/4 teaspoon red pepper flakes",
+            "1/4 cup dry white wine",
+            "2 tablespoons freshly squeezed lemon juice",
+            "1/4 cup chopped fresh parsley",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese for serving"
+        ],
+        "steps": [
+            "Cook linguine according to package instructions until al dente. Drain and set aside.",
+            "In a large skillet, melt butter over medium heat. Add minced garlic and red pepper flakes. Cook for 1-2 minutes until fragrant.",
+            "Add the shrimp to the skillet and cook for about 2-3 minutes per side until pink and cooked through.",
+            "Pour in the white wine and lemon juice. Cook for another minute or until the sauce slightly reduces.",
+            "Stir in chopped parsley and season with salt and pepper.",
+            "Toss the cooked linguine in the shrimp scampi sauce until well coated.",
+            "Serve the shrimp scampi over linguine with grated Parmesan cheese on top."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "25 minutes",
+        "servings": 4,
+        "image_url": "https://example.com/shrimp_scampi.jpg"
+    },
+    {
+        "id": "27",
+        "name": "Caprese Salad",
+        "description": "A refreshing salad made with ripe tomatoes, fresh mozzarella, basil, and balsamic glaze.",
+        "ingredients": [
+            "Vegi",
+            "4 ripe tomatoes, sliced",
+            "8 ounces fresh mozzarella, sliced",
+            "1/4 cup fresh basil leaves",
+            "2 tablespoons balsamic glaze",
+            "2 tablespoons extra-virgin olive oil",
+            "Salt and pepper to taste"
+        ],
+        "steps": [
+            "Arrange the sliced tomatoes and fresh mozzarella on a serving platter, alternating them.",
+            "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+            "Drizzle balsamic glaze and extra-virgin olive oil over the salad.",
+            "Season with salt and pepper to taste.",
+            "Serve the Caprese salad immediately as a refreshing appetizer or side dish."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "0 minutes",
+        "total_time": "10 minutes",
+        "servings": 4,
+        "image_url": "https://example.com/caprese_salad.jpg"
+    },
+    {
+        "id": "28",
+        "name": "Beef Stir-Fry with Broccoli",
+        "description": "Tender beef slices and broccoli stir-fried in a savory sauce.",
+        "ingredients": [
+            "Beef",
+            "1 pound flank steak, thinly sliced",
+            "3 cups broccoli florets",
+            "2 tablespoons vegetable oil",
+            "3 cloves garlic, minced",
+            "1/4 cup soy sauce",
+            "2 tablespoons oyster sauce",
+            "1 tablespoon hoisin sauce",
+            "1 tablespoon cornstarch",
+            "1/4 cup water",
+            "1 tablespoon sesame oil",
+            "2 tablespoons sesame seeds for garnish",
+            "Cooked rice for serving"
+        ],
+        "steps": [
+            "In a bowl, mix together soy sauce, oyster sauce, hoisin sauce, cornstarch, water, and sesame oil to make the sauce.",
+            "Heat vegetable oil in a wok or large skillet over high heat.",
+            "Add minced garlic and stir-fry for a few seconds until fragrant.",
+            "Add thinly sliced beef to the skillet and stir-fry until browned and cooked through.",
+            "Add broccoli florets and stir-fry for 2-3 minutes until tender-crisp.",
+            "Pour the sauce over the beef and broccoli. Stir to coat evenly and cook for another minute until the sauce thickens.",
+            "Remove from heat and garnish with sesame seeds.",
+            "Serve the beef stir-fry with broccoli over cooked rice."
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "10 minutes",
+        "total_time": "30 minutes",
+        "servings": 4,
+        "image_url": "https://example.com/beef_stir_fry_broccoli.jpg"
+    },
+    {
+        "id": "29",
+        "name": "Mushroom Risotto",
+        "description": "Creamy and comforting risotto with earthy mushrooms and Parmesan cheese.",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "4 cups vegetable or chicken broth",
+            "1 cup sliced mushrooms",
+            "1/2 cup dry white wine",
+            "1/4 cup grated Parmesan cheese",
+            "2 tablespoons unsalted butter",
+            "1 small onion, chopped",
+            "2 cloves garlic, minced",
+            "2 tablespoons olive oil",
+            "Salt and pepper to taste",
+            "Chopped fresh parsley for garnish"
+        ],
+        "steps": [
+            "In a saucepan, heat vegetable or chicken broth and keep it warm over low heat.",
+            "In a large skillet or saucepan, heat olive oil over medium heat. Add chopped onion and cook until softened.",
+            "Add minced garlic and sliced mushrooms. Cook until the mushrooms are browned and tender.",
+            "Add Arborio rice to the skillet and stir to coat the rice with oil.",
+            "Pour in the dry white wine and cook until it's absorbed by the rice.",
+            "Gradually add warm broth to the rice, one ladleful at a time, stirring constantly and allowing the liquid to be absorbed before adding more.",
+            "Continue adding broth and stirring until the rice is creamy and cooked al dente. This process takes about 20-25 minutes.",
+            "Stir in grated Parmesan cheese and unsalted butter. Season with salt and pepper to taste.",
+            "Garnish the mushroom risotto with chopped fresh parsley before serving."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "30 minutes",
+        "total_time": "40 minutes",
+        "servings": 4,
+        "image_url": "https://example.com/mushroom_risotto.jpg"
+    },
+    {
+        "id": "30",
+        "name": "BBQ Pulled Pork Sandwiches",
+        "description": "Tender pulled pork smothered in barbecue sauce and served in a soft bun.",
+        "ingredients": [
+            "Pork",
+            "Shrimp",
+            "3 pounds pork shoulder or pork butt",
+            "1 cup BBQ sauce",
+            "1/4 cup apple cider vinegar",
+            "1/4 cup brown sugar",
+            "2 teaspoons smoked paprika",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "1/2 teaspoon cayenne pepper",
+            "Salt and pepper to taste",
+            "8 hamburger buns",
+            "Coleslaw for topping"
+        ],
+        "steps": [
+            "In a bowl, mix together BBQ sauce, apple cider vinegar, brown sugar, smoked paprika, garlic powder, onion powder, cayenne pepper, salt, and pepper to make the marinade.",
+            "Place the pork shoulder or pork butt in a slow cooker or Instant Pot. Pour the marinade over the pork.",
+            "Cook the pork on low heat for 8 hours in a slow cooker or follow the Instant Pot instructions for cooking pork.",
+            "Once the pork is cooked and tender, use two forks to shred the meat.",
+            "Toss the shredded pork in the cooking liquid to coat it with the barbecue sauce.",
+            "Serve the BBQ pulled pork on hamburger buns with coleslaw on top."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "8 hours (slow cooker) / 1 hour (Instant Pot)",
+        "total_time": "8 hours 15 minutes (slow cooker) / 1 hour 15 minutes (Instant Pot)",
+        "servings": 8,
+        "image_url": "https://example.com/bbq_pulled_pork_sandwich.jpg"
+    },
+    {
+        "id": "31",
+        "name": "Pesto Pasta with Sun-Dried Tomatoes",
+        "description": "Pasta tossed in a flavorful pesto sauce with sun-dried tomatoes and Parmesan cheese.",
+        "ingredients": [
+            "Fish",
+            "Shrimp",
+            "8 ounces penne or any pasta of your choice",
+            "1/2 cup basil pesto",
+            "1/4 cup sun-dried tomatoes, chopped",
+            "1/4 cup grated Parmesan cheese",
+            "2 tablespoons pine nuts, toasted",
+            "2 tablespoons extra-virgin olive oil",
+            "Salt and pepper to taste",
+            "Fresh basil leaves for garnish"
+        ],
+        "steps": [
+            "Cook pasta according to package instructions until al dente. Drain and set aside.",
+            "In a large mixing bowl, toss the cooked pasta with basil pesto until well coated.",
+            "Add chopped sun-dried tomatoes, grated Parmesan cheese, and toasted pine nuts to the pasta. Mix well.",
+            "Drizzle extra-virgin olive oil over the pasta and season with salt and pepper to taste.",
+            "Garnish the pesto pasta with fresh basil leaves before serving."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "10 minutes",
+        "total_time": "20 minutes",
+        "servings": 4,
+        "image_url": "https://example.com/pesto_pasta_sun_dried_tomatoes.jpg"
+    },
+    {
+        "id": "32",
+        "name": "Lemon Raspberry Cheesecake",
+        "description": "A luscious cheesecake with a lemon-flavored filling and a raspberry swirl.",
+        "ingredients": [
+            "Vegi",
+            "1 1/2 cups graham cracker crumbs",
+            "1/4 cup granulated sugar",
+            "1/2 cup unsalted butter, melted",
+            "16 ounces cream cheese, softened",
+            "1 cup granulated sugar",
+            "3 large eggs",
+            "1/2 cup sour cream",
+            "1/4 cup fresh lemon juice",
+            "1 tablespoon lemon zest",
+            "1 teaspoon vanilla extract",
+            "1/2 cup raspberry jam or puree",
+            "Fresh raspberries for garnish"
+        ],
+        "steps": [
+            "Preheat the oven to 325°F (160°C).",
+            "In a bowl, mix graham cracker crumbs, granulated sugar, and melted butter until the crumbs are evenly moistened.",
+            "Press the crumb mixture into the bottom of a 9-inch springform pan to create the crust.",
+            "In a large mixing bowl, beat cream cheese and granulated sugar until smooth and creamy.",
+            "Add eggs one at a time, beating well after each addition.",
+            "Mix in sour cream, fresh lemon juice, lemon zest, and vanilla extract.",
+            "Pour the cream cheese mixture over the crust in the springform pan.",
+            "Drop spoonfuls of raspberry jam or puree on top of the cheesecake filling.",
+            "Use a toothpick or knife to create a swirl pattern with the raspberry jam.",
+            "Bake the cheesecake in the preheated oven for about 50-60 minutes or until the center is set.",
+            "Remove from the oven and let the cheesecake cool in the pan for about an hour.",
+            "Refrigerate the cheesecake for at least 4 hours or overnight before serving.",
+            "Garnish with fresh raspberries before serving."
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "1 hour",
+        "total_time": "5 hours",
+        "servings": 12,
+        "image_url": "https://example.com/lemon_raspberry_cheesecake.jpg"
+    },
+    {
+        "id": "33",
+        "name": "Homemade Margherita Pizza",
+        "description": "A classic Margherita pizza with a thin crust, tomato sauce, fresh mozzarella, and basil.",
+        "ingredients": [
+            "Chicken",
+            "Pork",
+            "1 pound pizza dough",
+            "1/2 cup pizza sauce or marinara sauce",
+            "8 ounces fresh mozzarella, sliced",
+            "1/4 cup fresh basil leaves",
+            "2 tablespoons extra-virgin olive oil",
+            "1/2 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "Cornmeal or flour for dusting"
+        ],
+        "steps": [
+            "Preheat the oven to the highest temperature your oven can reach (usually 500°F or 260°C).",
+            "On a floured surface, roll out the pizza dough into a 12-inch circle.",
+            "Transfer the rolled-out dough to a baking sheet or pizza stone dusted with cornmeal or flour.",
+            "Spread pizza sauce evenly over the dough, leaving a small border around the edges.",
+            "Arrange sliced mozzarella on top of the sauce.",
+            "Season with dried oregano, salt, and pepper.",
+            "Bake the pizza in the preheated oven for about 10-15 minutes or until the crust is golden and the cheese is bubbly and slightly browned.",
+            "Remove the pizza from the oven and top with fresh basil leaves.",
+            "Drizzle extra-virgin olive oil over the pizza before serving."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "30 minutes",
+        "servings": 4,
+        "image_url": "https://example.com/margherita_pizza.jpg"
     }
 ]
