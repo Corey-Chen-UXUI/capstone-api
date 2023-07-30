@@ -18,7 +18,7 @@
         "cook_time": "15 minutes",
         "total_time": "25 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/spaghetti_carbonara.jpg"
+        "image_url": "http://localhost:5050/images/recipe_01.jpg"
     },
     {
         "id": "2",
@@ -45,7 +45,7 @@
         "cook_time": "20 minutes",
         "total_time": "35 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/chicken_alfredo_pasta.jpg"
+        "image_url": "http://localhost:5050/images/recipe_02.jpg"
     },
     {
         "id": "3",
@@ -63,7 +63,7 @@
         "cook_time": "15 minutes",
         "total_time": "25 minutes",
         "servings": "2",
-        "image_url": "https://example.com/images/grilled_steak_garlic_butter.jpg"
+        "image_url": "http://localhost:5050/images/recipe_03.jpg"
     },
     {
         "id": "4",
@@ -83,7 +83,7 @@
         "cook_time": "20 minutes",
         "total_time": "30 minutes",
         "servings": "2",
-        "image_url": "https://example.com/images/baked_lemon_herb_salmon.jpg"
+        "image_url": "http://localhost:5050/images/recipe_04.jpg"
     },
     {
         "id": "5",
@@ -105,7 +105,7 @@
         "cook_time": "12 minutes",
         "total_time": "32 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/margherita_pizza.jpg"
+        "image_url": "http://localhost:5050/images/recipe_05.jpg"
     },
     {
         "id": "6",
@@ -124,7 +124,7 @@
         "cook_time": "25 minutes",
         "total_time": "1 hour 5 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/chicken_tikka_masala.jpg"
+        "image_url": "http://localhost:5050/images/recipe_06.jpg"
     },
     {
         "id": "7",
@@ -146,7 +146,7 @@
         "cook_time": "0 minutes",
         "total_time": "30 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/vegetarian_sushi_rolls.jpg"
+        "image_url": "http://localhost:5050/images/recipe_07.jpg"
     },
     {
         "id": "8",
@@ -166,7 +166,7 @@
         "cook_time": "15 minutes",
         "total_time": "40 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/beef_broccoli_stir_fry.jpg"
+        "image_url": "http://localhost:5050/images/recipe_08.jpg"
     },
     {
         "id": "9",
@@ -188,7 +188,7 @@
         "cook_time": "25 minutes",
         "total_time": "40 minutes",
         "servings": "6",
-        "image_url": "https://example.com/images/creamy_tomato_basil_soup.jpg"
+        "image_url": "http://localhost:5050/images/recipe_09.jpg"
     },
     {
         "id": "10",
@@ -209,7 +209,7 @@
         "cook_time": "10 minutes",
         "total_time": "20 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/shrimp_scampi.jpg"
+        "image_url": "http://localhost:5050/images/recipe_10.jpg"
     },
     {
         "id": "11",
@@ -377,7 +377,7 @@
         "cook_time": "15 minutes",
         "total_time": "30 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/chicken_caesar_salad.jpg"
+        "image_url": "http://localhost:5050/images/recipe_01.jpg"
     },
     {
         "id": "18",
@@ -471,17 +471,17 @@
         "description": "A rich and moist chocolate cake that will satisfy your cravings.",
         "ingredients": [
             "chicken",
-            "2 cups all-purpose flour",
-            "2 cups granulated sugar",
-            "3/4 cup unsweetened cocoa powder",
-            "1 1/2 teaspoons baking powder",
-            "1 1/2 teaspoons baking soda",
-            "1 teaspoon salt",
-            "2 eggs",
-            "1 cup milk",
-            "1/2 cup vegetable oil",
-            "2 teaspoons vanilla extract",
-            "1 cup boiling water"
+            " all-purpose flour",
+            "granulated sugar",
+            "cup unsweetened cocoa powder",
+            "teaspoons baking powder",
+            "teaspoons baking soda",
+            "teaspoon salt",
+            "eggs",
+            "milk",
+            "vegetable oil",
+            "vanilla extract",
+            "boiling water"
         ],
         "steps": [
             "Preheat the oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.",
@@ -511,9 +511,9 @@
             "1 cup grated Pecorino Romano cheese",
             "4 ounces pancetta or guanciale, diced",
             "2 cloves garlic, minced",
-            "1/4 teaspoon freshly ground black pepper",
-            "Salt to taste",
-            "2 tablespoons chopped fresh parsley"
+            "freshly ground black pepper",
+            "Salt",
+            "chopped fresh parsley"
         ],
         "steps": [
             "Bring a large pot of salted water to a boil. Cook spaghetti until al dente.",
