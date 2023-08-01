@@ -230,7 +230,7 @@
         "cook_time": "20 minutes",
         "total_time": "35 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/chicken_parmesan.jpg"
+        "image_url": "http://localhost:5050/images/recipe_11.jpg"
     },
     {
         "id": "12",
@@ -256,7 +256,7 @@
         "cook_time": "20 minutes",
         "total_time": "30 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/veggie_quinoa_bowl.jpg"
+        "image_url": "http://localhost:5050/images/recipe_12.jpg"
     },
     {
         "id": "13",
@@ -277,7 +277,7 @@
         "cook_time": "15 minutes",
         "total_time": "35 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/thai_red_curry_tofu.jpg"
+        "image_url": "http://localhost:5050/images/recipe_13.jpg"
     },
     {
         "id": "14",
@@ -298,7 +298,7 @@
         "cook_time": "25 minutes",
         "total_time": "40 minutes",
         "servings": "6",
-        "image_url": "https://example.com/images/baked_ziti.jpg"
+        "image_url": "http://localhost:5050/images/recipe_14.jpg"
     },
     {
         "id": "15",
@@ -327,7 +327,7 @@
         "cook_time": "0 minutes",
         "total_time": "15 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/greek_salad.jpg"
+        "image_url": "http://localhost:5050/images/recipe_15.jpg"
     },
     {
         "id": "16",
@@ -350,7 +350,7 @@
         "cook_time": "30 minutes",
         "total_time": "45 minutes",
         "servings": "6",
-        "image_url": "https://example.com/images/onion_mushroom_tart.jpg"
+        "image_url": "http://localhost:5050/images/recipe_16.jpg"
     },
     {
         "id": "17",
@@ -377,7 +377,7 @@
         "cook_time": "15 minutes",
         "total_time": "30 minutes",
         "servings": "4",
-        "image_url": "http://localhost:5050/images/recipe_01.jpg"
+        "image_url": "http://localhost:5050/images/recipe_17.jpg"
     },
     {
         "id": "18",
@@ -409,7 +409,7 @@
         "cook_time": "30 minutes",
         "total_time": "40 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/mushroom_risotto.jpg"
+        "image_url": "http://localhost:5050/images/recipe_18.jpg"
     },
     {
         "id": "19",
@@ -443,7 +443,7 @@
         "cook_time": "10 minutes",
         "total_time": "25 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/taco_salad.jpg"
+        "image_url": "http://localhost:5050/images/recipe_19.jpg"
     },
     {
         "id": "20",
@@ -462,7 +462,7 @@
         "cook_time": "12 minutes",
         "total_time": "22 minutes",
         "servings": "4",
-        "image_url": "https://example.com/images/garlic_butter_shrimp.jpg"
+        "image_url": "http://localhost:5050/images/recipe_20.jpg"
     },
 
     {
@@ -498,7 +498,7 @@
         "cook_time": "30 minutes",
         "total_time": "1 hour",
         "servings": 12,
-        "image_url": "https://example.com/chocolate_cake.jpg"
+        "image_url": "http://localhost:5050/images/recipe_21.jpg"
     },
     {
         "id": "21",
@@ -527,7 +527,7 @@
         "cook_time": "15 minutes",
         "total_time": "25 minutes",
         "servings": 4,
-        "image_url": "https://example.com/spaghetti_carbonara.jpg"
+        "image_url": "http://localhost:5050/images/recipe_22.jpg"
     },
     {
         "id": "22",
@@ -563,7 +563,7 @@
         "cook_time": "20 minutes",
         "total_time": "40 minutes",
         "servings": 4,
-        "image_url": "https://example.com/chicken_parmesan.jpg"
+        "image_url": "http://localhost:5050/images/recipe_23.jpg"
     },
     {
         "id": "23",
@@ -601,7 +601,7 @@
         "cook_time": "10 minutes",
         "total_time": "25 minutes",
         "servings": 4,
-        "image_url": "https://example.com/vegetable_stir_fry.jpg"
+        "image_url": "http://localhost:5050/images/recipe_24.jpg"
     },
     {
         "id": "24",
@@ -632,7 +632,7 @@
         "cook_time": "20 minutes",
         "total_time": "30 minutes",
         "servings": 4,
-        "image_url": "https://example.com/tomato_basil_soup.jpg"
+        "image_url": "http://localhost:5050/images/recipe_25.jpg"
     },
     {
         "id": "25",
