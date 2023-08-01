@@ -726,7 +726,7 @@
         "cook_time": "15 minutes",
         "total_time": "1 hour 30 minutes",
         "servings": 4,
-        "image_url": "https://example.com/lemon_herb_chicken.jpg"
+        "image_url": "http://localhost:5050/images/recipe_25.jpg"
     },
     {
         "id": "26",
@@ -758,7 +758,7 @@
         "cook_time": "15 minutes",
         "total_time": "25 minutes",
         "servings": 4,
-        "image_url": "https://example.com/shrimp_scampi.jpg"
+        "image_url": "http://localhost:5050/images/recipe_26.jpg"
     },
     {
         "id": "27",
@@ -784,7 +784,7 @@
         "cook_time": "0 minutes",
         "total_time": "10 minutes",
         "servings": 4,
-        "image_url": "https://example.com/caprese_salad.jpg"
+        "image_url": "http://localhost:5050/images/recipe_27.jpg"
     },
     {
         "id": "28",
@@ -819,7 +819,7 @@
         "cook_time": "10 minutes",
         "total_time": "30 minutes",
         "servings": 4,
-        "image_url": "https://example.com/beef_stir_fry_broccoli.jpg"
+        "image_url": "http://localhost:5050/images/recipe_28.jpg"
     },
     {
         "id": "29",
@@ -853,7 +853,7 @@
         "cook_time": "30 minutes",
         "total_time": "40 minutes",
         "servings": 4,
-        "image_url": "https://example.com/mushroom_risotto.jpg"
+        "image_url": "http://localhost:5050/images/recipe_29.jpg"
     },
     {
         "id": "30",
@@ -886,7 +886,7 @@
         "cook_time": "8 hours (slow cooker) / 1 hour (Instant Pot)",
         "total_time": "8 hours 15 minutes (slow cooker) / 1 hour 15 minutes (Instant Pot)",
         "servings": 8,
-        "image_url": "https://example.com/bbq_pulled_pork_sandwich.jpg"
+        "image_url": "http://localhost:5050/images/recipe_30.jpg"
     },
     {
         "id": "31",
@@ -915,7 +915,7 @@
         "cook_time": "10 minutes",
         "total_time": "20 minutes",
         "servings": 4,
-        "image_url": "https://example.com/pesto_pasta_sun_dried_tomatoes.jpg"
+        "image_url": "http://localhost:5050/images/recipe_31.jpg"
     },
     {
         "id": "32",
@@ -955,7 +955,7 @@
         "cook_time": "1 hour",
         "total_time": "5 hours",
         "servings": 12,
-        "image_url": "https://example.com/lemon_raspberry_cheesecake.jpg"
+        "image_url": "http://localhost:5050/images/recipe_32.jpg"
     },
     {
         "id": "33",
@@ -988,6 +988,6 @@
         "cook_time": "15 minutes",
         "total_time": "30 minutes",
         "servings": 4,
-        "image_url": "https://example.com/margherita_pizza.jpg"
+        "image_url": "http://localhost:5050/images/recipe_33.jpg"
     }
 ]
